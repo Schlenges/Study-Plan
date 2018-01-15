@@ -1,5 +1,5 @@
 # Study Plan
-A little study plan based on [freeCodeCamp(beta)](https://beta.freecodecamp.org/) and [The Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/) by Colt Steele, grouped and organized by subjects.
+A small personal study plan based on [freeCodeCamp(beta)](https://beta.freecodecamp.org/) and [The Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/) by Colt Steele, grouped and organized by subjects.
 
 - Web Developer Bootcamp
   - [ ] Section 6: **Async Foundations**
